@@ -1,0 +1,6 @@
+print("Enter your name:")
+name=input("string")
+print("enter your age:")
+age=input("integer ")
+print("hello my name is",name,"  my age",age)
+print("Welcome to the Python world!")
